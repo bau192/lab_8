@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--definimos las diferentes opciones del menu-->
+    <item android:id="@+id/np" android:title="Nuevo Producto"/>
+    <item android:id="@+id/rl" android:title="Reiniciar Lista"/>
+    <item android:id="@+id/ia" android:title="Inventario Actual"/>
+    <item android:id="@+id/ac" android:title="Actualizar"/>
+
+</menu>
